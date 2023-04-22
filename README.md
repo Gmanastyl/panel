@@ -1,2 +1,2 @@
-# login-page
-A basic login page
+# Panel
+# A basic Panel website without framework
